@@ -1,0 +1,26 @@
+.panel{
+    width: 95%;
+    position:relative;
+    margin:auto;
+    border-radius:50px;
+    background-color: rgb(241, 252, 239);
+}
+.panelgroup{
+    text-align: center;
+    background-color: rgb(241, 255, 238);
+    border-radius: 50px;
+    margin:30px;
+}
+.Content{
+    margin-bottom:40px;
+}
+.imgCar{
+    border: black solid thin;
+    border-radius: 5px;
+}
+#car{
+    position: relative;
+    margin: auto;
+    margin-top: 20px;
+    width: 900px;
+}
